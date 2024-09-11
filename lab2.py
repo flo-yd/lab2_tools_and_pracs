@@ -5,3 +5,7 @@ def hello_world():
 # second add
 def hallooo():
   print('hallooo')
+
+# kay floyd ni
+def gwapoako():
+  print("gwapo si floyd")
