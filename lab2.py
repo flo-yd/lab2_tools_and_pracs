@@ -9,3 +9,7 @@ def hallooo():
 # kay floyd ni
 def gwapoako():
   print("gwapo si floyd")
+nich ="hawdaw"
+
+def greet(name):
+    print(f"Hello, {name}!")
