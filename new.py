@@ -10,3 +10,4 @@ def greet(word):
 
 print(greet(floyd))
 
+print(greet(nich))
