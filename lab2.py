@@ -13,3 +13,5 @@ nich ="hawdaw"
 
 def greet(name):
     print(f"Hello, {name}!")
+    
+print(greet("Nicholae Sara"))
